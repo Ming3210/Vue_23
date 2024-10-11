@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "address": "New York",
+      "phone": "0123456789",
+      "id": 1
+    },
+    {
+      "name": "Ming321",
+      "id": 2,
+      "email": "ming@gmail.com",
+      "address": "Los Angeles",
+      "phone": "0987654321"
+    },
+    {
+      "name": "Ning",
+      "id": 4,
+      "email": "ning@gmail.com",
+      "address": "Chicago",
+      "phone": "1234567890"
+    },
+    {
+      "name": "12sad",
+      "email": "vminh0227@gmail.com",
+      "address": "Đông Tiến",
+      "phone": "0355129455",
+      "id": 5
+    },
+    {
+      "name": "12sad12",
+      "email": "vminh0227@gmail.com",
+      "address": "Đông Tiến",
+      "phone": "0355129455",
+      "id": 6
+    }
+  ]
+}
